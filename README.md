@@ -1,5 +1,6 @@
 >> Evening Agenda:  Week1- Session2 
 ### 4:00 PST-  Office Hour
+- Git - Github Demo
 ### 5:00 PST-  Lecture
 ​
 Topics 
